@@ -10,7 +10,7 @@
 
 ## Anleitungen
 
-* [CMS-Schnittestelle][./wp-admin)
+* [CMS-Schnittestelle](./wp-admin)
 
 
 
