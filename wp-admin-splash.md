@@ -1,4 +1,4 @@
-[&lt; HOME](./index)
+[&lt; Intro](./wp-admin)
 
 # Anleitung zur CMS - Eingangs-Seite ("Banai Splash")
 
