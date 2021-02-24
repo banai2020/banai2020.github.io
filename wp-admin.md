@@ -1,4 +1,4 @@
-[&lt; HOME](./index)
+[&lt; HOME](./)
 
 # Anleitung zur CMS - Überblick
 
