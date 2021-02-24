@@ -26,3 +26,9 @@ Es gibt zwei Arten:
 Benutzernamen  und Passwörter sind vom Entwicklungsteam erhältlich.
 
 
+## Bedienung
+
+Nach der Anmeldung erscheint eine schlichte Seite:
+
+
+
