@@ -1,6 +1,19 @@
 [&lt; HOME](./index)
 
-# Anleitung zur Content-Management-System (CMS) Schnittstelle
+# Anleitung zur CMS - Überblick
+
+Anleitung zur Content-Management-System (CMS) Schnittstelle
+
+* Überblick
+* Globale Einstellungen
+* Übersetzungen
+* Splash Screen
+* Unternehmen-Slider
+* Kompetenz-Leiste
+* Leistungs-Carousel
+* Video-Spacer
+* Kontaktformular
+* Footer Bereich
 
 ## Intro
 
@@ -10,7 +23,7 @@ Aber, um Sicherheit zu erhöhen und die Wartung effizienter zu machen, wird von 
 in Gebrauch genommen, und nicht die Blogging- und Kommentar-Funktionen. Dazu werden auch keine Plugins, außer eigener
 entwickelten, angewendet.
 
-Übers CMS wird die Inhalte und ätliche Einstellungen der Website gesteuert.
+Übers CMS wird die Inhalte, Medien wie Bilder und Videos, und etliche Einstellungen der Website gesteuert.
 
 
 ## Zugang
