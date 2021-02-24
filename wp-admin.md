@@ -30,5 +30,7 @@ Benutzernamen  und Passwörter sind vom Entwicklungsteam erhältlich.
 
 Nach der Anmeldung erscheint eine schlichte Seite:
 
+![Selection_093.png](:/res/Selection_093.png)
+
 
 
