@@ -4,5 +4,5 @@
 
 Hier werden die Einstellungen fürs Kontaktformular aufgelistet.
 
-
+![kontakt.png](/res/kontakt.png)
 
