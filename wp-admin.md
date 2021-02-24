@@ -32,7 +32,7 @@ Benutzernamen  und Passwörter sind vom Entwicklungsteam erhältlich.
 
 Nach der Anmeldung erscheint eine schlichte Seite:
 
-![Selection_093.png](:/res/Selection_093.png)
+![Selection_093.png](:./res/Selection_093.png)
 
 Aufgelistet links sind die Module oder Rubriken, die zu den bestimmten Teilen der Website gehören, 
 oder im Falle "Banai Global", zur globalen Einstellungen.
