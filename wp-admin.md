@@ -2,6 +2,8 @@
 
 # Anleitung zur CMS - Überblick
 
+### ***--- WICHTIG: diese Anleitung ist nicht vollständig! ---*** ### 
+
 Anleitung zur Content-Management-System (CMS) Schnittstelle
 
 * [Überblick](#intro)
@@ -53,3 +55,15 @@ oder im Falle "Banai Global", zur globalen Einstellungen.
 
 
 
+
+```
+mv -i wp-admin-translate wp-admin-translate.md
+mv -i wp-admin-splash wp-admin-splash.md
+
+mv -i wp-admin-unternehmen wp-admin-unternehmen.md
+mv -i wp-admin-kompetenz wp-admin-kompetenz.md
+mv -i wp-admin-carousel wp-admin-carousel.md
+mv -i wp-admin-video-spacer wp-admin-video-spacer.md
+mv -i wp-admin-kontakt wp-admin-kontakt.md
+mv -i wp-admin-footer wp-admin-footer.md
+```

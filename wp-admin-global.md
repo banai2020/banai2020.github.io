@@ -1,6 +1,6 @@
 [&lt; Intro](./wp-admin)
 
-# Anleitung zur CMS - Globale Einstellungen
+# Anleitung zur CMS - Globale Einstellungen ("Banai Global")
 
 Die **Globale Einstellungen der Content-Management-System (CMS) Schnittstelle** steuert die folgenden Komponente:
 
