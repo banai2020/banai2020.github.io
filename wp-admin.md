@@ -4,7 +4,7 @@
 
 ### ***--- WICHTIG: diese Anleitung ist nicht vollständig! ---*** ### 
 
-Anleitung zur Content-Management-System (CMS) Schnittstelle
+Anleitung zur Content-Management-System (CMS) Interface
 
 * [Überblick](#intro)
 * [Globale Einstellungen](./wp-admin-global)
