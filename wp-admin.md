@@ -4,16 +4,16 @@
 
 Anleitung zur Content-Management-System (CMS) Schnittstelle
 
-* [Überblick]()
-* [Globale Einstellungen]()
-* [Übersetzungen]()
-* [Splash Screen]()
-* [Unternehmen-Slider]()
-* [Kompetenz-Leiste]()
-* [Leistungs-Carousel]()
-* [Video-Spacer]()
-* [Kontaktformular]()
-* [Footer Bereich]()
+* [Überblick](#intro)
+* [Globale Einstellungen](./wp-admin-global)
+* [Übersetzungen](./wp-admin-translate)
+* [Splash Screen](./wp-admin-splash)
+* [Unternehmen-Slider](./wp-admin-unternehmen)
+* [Kompetenz-Leiste](./wp-admin-kompetenz)
+* [Leistungs-Carousel](./wp-admin-carousel)
+* [Video-Spacer](./wp-admin-video-spacer)
+* [Kontaktformular](./wp-admin-kontakt)
+* [Footer Bereich](./wp-admin-footer)
 
 
 ## Intro
