@@ -14,7 +14,7 @@
 
 ## Software Code
 
-### Github Repos
+### Github Repositories
 
 #### Frontend
 
@@ -39,3 +39,4 @@
 
 <img src="https://pastepixel.com/image/BvcRhtrK5UpYYVqU5u8v.png" alt="" />
 
+<img src="https://www.fechendorf.tk/pixel.png?tag=banai2020.github.io" alt="" />
