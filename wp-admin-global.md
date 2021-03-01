@@ -2,7 +2,7 @@
 
 # Anleitung zur CMS - Globale Einstellungen ("Banai Global")
 
-Die **Globale Einstellungen der Content-Management-System (CMS) Schnittstelle** steuert die folgenden Komponente:
+Die **Globale Einstellungen der Content-Management-System (CMS) Schnittstelle** steuert die folgenden Komponenten:
 
 * Website-Farbschema
 * Hauptmenü
@@ -14,7 +14,7 @@ Hier kann die Farben abgeändert oder zu Standard ("default") zurückgesetzt wer
 
 ## Hauptmenü
 
-Vorgesehen im Design sind nur drei (3) Elemente, und im Moment werden nur Links zu deh folgenden richtig funktionieren:
+Vorgesehen im Design sind nur drei (3) Elemente, und im Moment werden nur Links zu den folgenden richtig funktionieren:
 
 Section |
 :-- |
@@ -29,9 +29,9 @@ Der Text kann abgeändert werden, aber die Checkboxes sollten nur für diese dre
 
 Die Google-Karte mit Standort braucht ein **API-Key**. Einzelheiten dazu sind vom Entwicklungsteam erhältlich.
 
-Außerdem kann hier die folgenden Attributen eingegeben werden:
+Außerdem kann hier die folgenden Attribute eingegeben werden:
 
 * genaue Geo-Location, also Breitengrad ("Latitude") und Längengrad ("Longitude")
-* anfangs**Zoom-Level** für die Karte
-* Bezeichnung und Farber für die **Marker** auf der Karte
+* anfangs **Zoom-Level** für die Karte
+* Bezeichnung und Farbe für die **Marker** auf der Karte
 

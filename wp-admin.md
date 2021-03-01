@@ -20,11 +20,11 @@ Anleitung zur Content-Management-System (CMS) Interface
 
 ## Intro
 
-Das CMS ist auf Basis von Wordpress, ein ausgereifte und sehr weit verbreitete Open-Source Software, aufgebaut. 
+Das CMS ist auf Basis von Wordpress, eine ausgereifte und sehr weit verbreitete Open-Source Software, aufgebaut. 
 
 Aber, um Sicherheit zu erhöhen und die Wartung effizienter zu machen, wird von Wordpress selber nur das Backend
-in Gebrauch genommen, und nicht die Blogging- und Kommentar-Funktionen. Dazu werden auch keine Plugins, außer eigener
-entwickelten, angewendet.
+in Gebrauch genommen, und nicht die Blogging- und Kommentar-Funktionen. Dazu werden auch keine Plugins (außer eigenen
+entwickelten) angewendet.
 
 Übers CMS wird die Inhalte, Medien wie Bilder und Videos, und etliche Einstellungen der Website gesteuert.
 

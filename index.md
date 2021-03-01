@@ -1,6 +1,6 @@
 # Projektseite- Banai GmbH Website 
 
-## Support oder Kontact
+## Support oder Kontakt
 
 <a href="mailto:betterus@neuesziel.de">webdev-betterus@neuesziel.de</a>
 
