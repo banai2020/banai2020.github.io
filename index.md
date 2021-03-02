@@ -12,6 +12,18 @@
 
 * [Content-Management-System (CMS) Interface](./wp-admin)
 
+## Technische Dokumentationen
+
+* System Architecture
+* [Konfigurationen](./konfig/)
+* Hosting
+* Backend
+* [User Interface (Frontend)](./tech-ui/)
+* Sicherheit
+* Statistik
+  * Google Analytics
+* Wartung
+
 ## Software Code
 
 ### Github Repositories
