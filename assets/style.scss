@@ -1,7 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+//@import "{{ site.theme }}";
+
+@import "jekyll-theme-slate";
 
 #footer_wrap {display: none;}
 
