@@ -1,10 +1,15 @@
 ---
+my_header: User Interface Frontend
+my_number: 5
+---
+
+<!--
 header: User Interface (Frontend)
 my_header: User Interface (Frontend)
 my_number: 5
 backlinktext: &lt; HOME
 backlinkpath: /
----
+-->
 
 [&lt; HOME](/)
 
