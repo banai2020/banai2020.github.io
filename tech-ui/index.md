@@ -1,20 +1,8 @@
 ---
-my_header: User Interface Frontend
+pageheader: User Interface Frontend
 backlinktext: "< HOME"
 backlinkpath: "/"
 ---
-
-<!--
-header: User Interface (Frontend)
-my_header: User Interface (Frontend)
-my_number: 5
-backlinktext: &lt; HOME
-backlinkpath: /
--->
-
-[&lt; HOME](/)
-
-# User Interface (Frontend)
 
 ***--- WICHTIG: nicht vollständig! ---***
 

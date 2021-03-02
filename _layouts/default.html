@@ -37,18 +37,18 @@
     <div id="main_content_wrap" class="outer">
       <section id="hdr_content" class="inner">
           {% if page.backlinktext %}
-          <p>1. page.backlinktext={{ page.backlinktext }}</p>
-          <p>[page.backlinktext={{ page.backlinktext }}]({{ backlinkpath }})</p>
           <p><a href="{{ backlinkpath }}">{{ page.backlinktext }}</a></p>
           {% endif %}
-          {% if page.my_header %}
-            <h1 style="border-left: 10px solid forestgreen; padding-left: 10px;">{{ page.my_header }}</h1>
+          {% if page.pageheader %}
+            <h1 style="border-left: 10px solid forestgreen; padding-left: 10px;">{{ page.pageheader }}</h1>
           {% endif %}
-          {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=3 h_max=6 %}
+
+          <!-- TOC -->
+          {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=6 %}
+
           <hr/>
       </section>
       <section id="main_content" class="inner">
-          {% comment %} {% include toc.html html=content  %} {% endcomment %}
           {{ content }}
       </section>
     </div>
