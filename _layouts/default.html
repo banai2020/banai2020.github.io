@@ -39,13 +39,13 @@
           {% if page.backlinktext %}
           <p><a href="{{ backlinkpath }}">{{ page.backlinktext }}</a></p>
           {% endif %}
+
+          {% comment %} only show TOC if a header is defined {% endcomment %}
           {% if page.pageheader %}
             <h1 style="border-left: 10px solid forestgreen; padding-left: 10px;">{{ page.pageheader }}</h1>
+            <!-- TOC -->
+            {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=6 %}
           {% endif %}
-
-          <!-- TOC -->
-          {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=6 %}
-
           <hr/>
       </section>
       <section id="main_content" class="inner">
