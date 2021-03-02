@@ -1,8 +1,11 @@
-[&lt; Intro](./wp-admin)
+---
+pageheader: Anleitung zur CMS - Globale Einstellungen ("Banai Global")
+backlinktext: "< BACK"
+backlinkpath: "./wp-admin"
+---
 
-# Anleitung zur CMS - Globale Einstellungen ("Banai Global")
-
-Die **Globale Einstellungen der Content-Management-System (CMS) Schnittstelle** steuert die folgenden Komponenten:
+Die **Globale Einstellungen der Content-Management-System (CMS) Schnittstelle** 
+steuert die folgenden Komponenten:
 
 * Website-Farbschema
 * Hauptmenü

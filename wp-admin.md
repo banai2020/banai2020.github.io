@@ -1,12 +1,14 @@
-[&lt; HOME](./)
+---
+pageheader: Anleitung zur CMS - Intro
+backlinktext: "< HOME"
+backlinkpath: "/"
+---
 
-# Anleitung zur CMS - Überblick
-
-### ***--- WICHTIG: diese Anleitung ist nicht vollständig! ---*** ### 
+***--- WICHTIG: diese Anleitung ist nicht vollständig! ---*** 
 
 Anleitung zur Content-Management-System (CMS) Interface
 
-* [Überblick](#intro)
+* [Intro](#intro)
 * [Globale Einstellungen](./wp-admin-global)
 * [Übersetzungen](./wp-admin-translate)
 * [Splash Screen](./wp-admin-splash)
@@ -29,11 +31,11 @@ entwickelten) angewendet.
 Übers CMS wird die Inhalte, Medien wie Bilder und Videos, und etliche Einstellungen der Website gesteuert.
 
 
-## Zugang
+### Zugang
 
 URL: [https://dev-banai.000webhostapp.com/wp-admin/](https://dev-banai.000webhostapp.com/wp-admin/)
 
-### Zugangskonten
+#### Zugangskonten
 
 Es gibt zwei Arten:
 
@@ -44,7 +46,7 @@ Es gibt zwei Arten:
 Benutzernamen  und Passwörter sind vom Entwicklungsteam erhältlich.
 
 
-## Bedienung
+### Bedienung
 
 Nach der Anmeldung erscheint eine schlichte Seite:
 

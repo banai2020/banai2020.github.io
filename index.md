@@ -8,7 +8,7 @@
 
 * [Site URLs](./devsites)
 
-## Anleitungen
+## Benutzer-Anleitungen
 
 * [Content-Management-System (CMS) Interface](./wp-admin)
 

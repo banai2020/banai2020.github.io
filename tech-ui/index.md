@@ -13,7 +13,7 @@ die als User Interface oder Frontend dient.
 
 ### Software-Code
 
-[Verlinkt hier](/#software-code)
+Siehe [Verlinkungen hier](/#software-code).
 
 ### Technologien und Frameworks
 
