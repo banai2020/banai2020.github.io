@@ -37,8 +37,8 @@
     <div id="main_content_wrap" class="outer">
       <section id="hdr_content" class="inner">
           {% if page.backlinktext %}
-          <p><a href="{{ backlinkpath }}">{{ page.backlinktext }}</a></p>
-          {{ backlinkpath }}
+          <p><a href="{{ page.backlinkpath }}">{{ page.backlinktext }}</a></p>
+          <p>page.backlinkpath={{ page.backlinkpath }}</p>
           {% endif %}
 
           {% comment %} only show TOC if a header is defined {% endcomment %}
