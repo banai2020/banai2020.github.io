@@ -1,7 +1,7 @@
 ---
 pageheader: Konfigurations-Einstellungen - Frontend - Google Analytics
 backlinktext: "< BACK"
-backlinkpath: "./index"
+backlinkpath: "/konfig/"
 ---
 
 ***--- WICHTIG: nicht vollständig! ---***

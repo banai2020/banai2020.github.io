@@ -1,7 +1,7 @@
 ---
 pageheader: Konfigurations-Einstellungen
 backlinktext: "< HOME"
-backlinkpath: "/"
+backlinkpath: "/index"
 ---
 
 ***--- WICHTIG: nicht vollständig! ---*** 
