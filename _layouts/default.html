@@ -36,11 +36,10 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="hdr_content" class="inner">
-          {{ page.backlinktext }}
-          {{ page.backlinkpath }}
           {% if page.backlinktext %}
-          <p>[{{ page.backlinktext }}]({{ page.backlinkpath }})</p>
+          <p>1. page.backlinktext={{ page.backlinktext }}</p>
           {% endif %}
+          <p>2. page.backlinktext={{ page.backlinktext }}</p>
           {% if page.my_header %}
             <h1 style="border: 1px solid forestgreen;">{{ page.my_header }}</h1>
           {% endif %}
