@@ -1,6 +1,7 @@
 ---
 my_header: User Interface Frontend
-my_number: 5
+backlinktext: &lt; HOME
+backlinkpath: /
 ---
 
 <!--

@@ -38,15 +38,12 @@
       <section id="hdr_content" class="inner">
           {{ page.backlinktext }}
           {{ page.backlinkpath }}
+          {% if page.backlinktext %}
           <p>[{{ page.backlinktext }}]({{ page.backlinkpath }})</p>
-          <h1 style="border: 3px solid crimson;">page.my_header: {{ page.my_header }}</h1>
+          {% endif %}
           {% if page.my_header %}
-            <h1 style="border: 3px solid forestgreen;">page.my_header: {{ page.my_header }}</h1>
+            <h1 style="border: 1px solid forestgreen;">page.my_header: {{ page.my_header }}</h1>
           {% endif %}
-          {% if page.my_number %}
-            <h1 style="border: 3px solid cyan;">page.my_number: {{ page.my_number }}</h1>
-          {% endif %}
-          <h1 style="border: 3px solid darkblue;">page.url: {{ page.url }}</h1>
       </section>
       <section id="main_content" class="inner">
           {% comment %} {% include toc.html html=content  %} {% endcomment %}
