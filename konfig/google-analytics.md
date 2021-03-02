@@ -1,6 +1,8 @@
-[&lt; BACK](./)
-
-# Konfigurations-Einstellungen - Frontend - Google Analytics  
+---
+pageheader: Konfigurations-Einstellungen - Frontend - Google Analytics
+backlinktext: "< BACK"
+backlinkpath: "./"
+---
 
 ### ***--- WICHTIG: nicht vollständig! ---*** ###
 
