@@ -1,8 +1,12 @@
-[&lt; HOME](/)
+---
+pageheader: User Interface Frontend
+backlinktext: "< HOME"
+backlinkpath: "/"
+---
 
 # Konfigurations-Einstellungen
 
-### ***--- WICHTIG: nicht vollständig! ---*** ### 
+***--- WICHTIG: nicht vollständig! ---*** 
 
 Hier wird aufgelistet wichtige Konfiguration-Einstellungen zu den verschiedenen Schnittstellen, Dienste, usw.
 
