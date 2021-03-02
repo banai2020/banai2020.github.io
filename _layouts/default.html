@@ -39,6 +39,7 @@
           {% if page.backlinktext %}
           <p>1. page.backlinktext={{ page.backlinktext }}</p>
           <p>[page.backlinktext={{ page.backlinktext }}]({{ backlinkpath }})</p>
+          <p><a href="{{ backlinkpath }}">{{ page.backlinktext }}</a></p>
           {% endif %}
           {% if page.my_header %}
             <h1 style="border-left: 10px solid forestgreen; padding-left: 10px;">{{ page.my_header }}</h1>
