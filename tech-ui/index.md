@@ -1,7 +1,7 @@
 ---
 pageheader: User Interface Frontend
-backlinktext: "< BACK"
-backlinkpath: "./"
+backlinktext: "< HOME"
+backlinkpath: "/"
 ---
 
 ***--- WICHTIG: nicht vollständig! ---***

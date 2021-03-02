@@ -1,19 +1,19 @@
 ---
 pageheader: Konfigurations-Einstellungen - Frontend - Google Analytics
 backlinktext: "< BACK"
-backlinkpath: "./"
+backlinkpath: "./index"
 ---
 
-### ***--- WICHTIG: nicht vollständig! ---*** ###
+***--- WICHTIG: nicht vollständig! ---***
 
 Ein Google Analytics (GA) ***Tracking-ID*** wird benötigt und muss per Hand 
 als Einstellung in die Frontend (der Website App) reingeschrieben werden.
 
-## Google Analytics Schnittstelle
+## Google Analytics (GA) Schnittstelle
 
-Erst die GA-Schnittstelle aufrufen:
+Als erstes die Google Analytics Schnittstelle aufrufen:
 
-    [https://analytics.google.com](https://analytics.google.com){:target="_blank"} 
+[https://analytics.google.com](https://analytics.google.com){:target="_blank"} 
 
 Um die richtige ***Property*** auszuwählen, zunächst oben links auf "All Web Site Data" klicken, 
 
