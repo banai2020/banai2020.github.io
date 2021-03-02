@@ -1,5 +1,5 @@
 ---
-pageheader: User Interface Frontend
+pageheader: Konfigurations-Einstellungen
 backlinktext: "< HOME"
 backlinkpath: "/"
 ---
