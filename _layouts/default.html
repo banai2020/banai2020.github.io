@@ -44,6 +44,7 @@
           {% if page.pageheader %}
             <h1 style="border-left: 10px solid forestgreen; padding-left: 10px;">{{ page.pageheader }}</h1>
             <!-- TOC -->
+            <br/>
             {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=6 %}
             <hr/>
           {% endif %}
