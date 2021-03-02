@@ -9,7 +9,9 @@ als Einstellung in die Frontend (der Website App) reingeschrieben werden.
 
 ## Google Analytics Schnittstelle
 
-Erst die GA-Schnittstelle aufrufen: [https://analytics.google.com](https://analytics.google.com){:target="_blank"} 
+Erst die GA-Schnittstelle aufrufen:
+
+    [https://analytics.google.com](https://analytics.google.com){:target="_blank"} 
 
 Um die richtige ***Property*** auszuwählen, zunächst oben links auf "All Web Site Data" klicken, 
 

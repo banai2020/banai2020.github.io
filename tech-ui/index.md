@@ -1,4 +1,4 @@
-[&lt; HOME](./)
+[&lt; HOME](/)
 
 # User Interface (Frontend)
 
@@ -8,7 +8,8 @@ Dieser Teil beschreibt die technischen Aspekte der Web App, die als User Interfa
 
 ## Architektur der App
 
-
+Die App, oder was der Benutzer als Frontend bekommt, ist auf Basis von [`React`][1]{:target="_blank"}
+mit der Facebook-Framework, [`CRA`][2]{:target="_blank"} aufgebaut.
 
 ## Schnittstellen
 
@@ -17,6 +18,5 @@ Dieser Teil beschreibt die technischen Aspekte der Web App, die als User Interfa
 Siehe auch [Konfigurationen](/konfig/).
 
 
-
-
-
+[1]: https://reactjs.org
+[2]: https://create-react-app.dev
