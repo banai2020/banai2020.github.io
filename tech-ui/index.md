@@ -11,6 +11,10 @@ die als User Interface oder Frontend dient.
 
 ## Architektur der App
 
+### Software-Code
+
+[Verlinkt hier](/#software-code)
+
 ### Technologien und Frameworks
 
 Die App, oder was der Benutzer als Frontend bekommt, ist auf Basis von
