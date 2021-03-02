@@ -37,7 +37,7 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
           {% comment %} {% include toc.html html=content  %} {% endcomment %}
-          {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=6 %}
+          {% comment %} {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=3 h_max=6 %} {% endcomment %}
           {{ content }}
       </section>
     </div>
