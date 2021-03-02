@@ -1,10 +1,14 @@
+---
+header: User Interface (Frontend)
+backlinktext: &lt; HOME
+backlinkpath: /
+---
+
 [&lt; HOME](/)
 
 # User Interface (Frontend)
 
 ***--- WICHTIG: nicht vollständig! ---***
-
-{% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=3 h_max=6 %}
 
 Dieser Teil beschreibt die technischen Aspekte der Web App, 
 die als User Interface oder Frontend dient.
