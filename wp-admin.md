@@ -2,6 +2,7 @@
 pageheader: Anleitung zur CMS - Intro
 backlinktext: "< HOME"
 backlinkpath: "/"
+notoc: true
 ---
 
 ***--- WICHTIG: diese Anleitung ist nicht vollständig! ---*** 
