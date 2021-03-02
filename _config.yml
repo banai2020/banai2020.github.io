@@ -1,2 +1,7 @@
 theme: jekyll-theme-slate
 markdown: kramdown
+includes_dir: _includes
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+google_analytics: UA-157619967-3
