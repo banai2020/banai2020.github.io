@@ -1,4 +1,4 @@
-[&lt; HOME](./)
+[&lt; HOME](/)
 
 # Konfigurations-Einstellungen
 

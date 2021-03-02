@@ -1,4 +1,4 @@
-[&lt; HOME](./)
+[&lt; BACK](./)
 
 # Konfigurations-Einstellungen - Frontend - Google Analytics  
 
@@ -9,7 +9,7 @@ als Einstellung in die Frontend (der Website App) reingeschrieben werden.
 
 ## Google Analytics Schnittstelle
 
-Erst die GA-Schnittstelle aufrufen: https://analytics.google.com 
+Erst die GA-Schnittstelle aufrufen: [https://analytics.google.com](https://analytics.google.com){:target="_blank"} 
 
 Um die richtige ***Property*** auszuwählen, zunächst oben links auf "All Web Site Data" klicken, 
 
@@ -41,7 +41,13 @@ Der Wert muss als folgende Variable in die Datei
 export const ga_tracking_id = 'UA-157619967-1';
 ```
 
+Eine Änderung in der App benötigt ein Rebuild, also
 
+```bash
+yarn build
+```
+
+Für Einzelheiten zum Aufbau der App (Frontend), siehe [hier](/tech-ui/). 
 
 
 
