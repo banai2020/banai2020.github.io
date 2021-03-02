@@ -4,7 +4,7 @@
 
 ***--- WICHTIG: nicht vollständig! ---***
 
-{% include /_includes/toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=3 h_max=6 %}
+{% include _includes/toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=3 h_max=6 %}
 
 Dieser Teil beschreibt die technischen Aspekte der Web App, 
 die als User Interface oder Frontend dient.
