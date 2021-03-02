@@ -22,7 +22,7 @@
 * Sicherheit
 * Statistik
   * Google Analytics
-* Wartung
+* Wartung & Sicherung
 
 ## Software Code
 
