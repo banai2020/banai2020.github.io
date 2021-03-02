@@ -8,5 +8,5 @@ Hier wird aufgelistet wichtige Konfiguration-Einstellungen zu den verschiedenen 
 
 ## User Interface (Frontend)
 
-* [Google Analytics (GA) Verknüpfungen](/konfig/google-analytics.md)
+* [Google Analytics (GA) Tracking-ID Verknüpfung](/konfig/google-analytics)
 
