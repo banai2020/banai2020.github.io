@@ -41,7 +41,7 @@
           {% endif %}
           <p>2. page.backlinktext={{ page.backlinktext }}</p>
           {% if page.my_header %}
-            <h1 style="border: 1px solid forestgreen;">{{ page.my_header }}</h1>
+            <h1 style="border-left: 10px solid forestgreen; padding-left: 10px;">{{ page.my_header }}</h1>
           {% endif %}
           {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=3 h_max=6 %}
           <hr/>

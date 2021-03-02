@@ -1,6 +1,7 @@
 ---
 my_header: User Interface Frontend
-backlinktext: &lt; HOME
+backlinktext: "< HOME"
+backlinkpath: "/"
 ---
 
 <!--
