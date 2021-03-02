@@ -38,8 +38,8 @@
       <section id="hdr_content" class="inner">
           {% if page.backlinktext %}
           <p>1. page.backlinktext={{ page.backlinktext }}</p>
+          <p>[page.backlinktext={{ page.backlinktext }}]({{ backlinkpath }})</p>
           {% endif %}
-          <p>2. page.backlinktext={{ page.backlinktext }}</p>
           {% if page.my_header %}
             <h1 style="border-left: 10px solid forestgreen; padding-left: 10px;">{{ page.my_header }}</h1>
           {% endif %}
