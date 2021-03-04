@@ -1,12 +1,15 @@
 ---
-pageheader: Content-Management-System (CMS)
+pageheader: Backend Content-Management-System (CMS)
 backlinktext: "< HOME"
 backlinkpath: "/"
 ---
 
 ***--- WICHTIG: nicht vollständig! ---***
 
-Siehe auch [die Benutzer-Anleitungen zum Content-Management-System (CMS) Interface](/wp-admin).
+Hier wird der Aufbau und die Konfiguration des Content-Management-Systems - als Backend - 
+beschrieben.
+
+=> ***Siehe auch [die Benutzer-Anleitungen zum Content-Management-System (CMS) Interface](/wp-admin).***
 
 ## Kern Software
 

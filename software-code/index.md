@@ -2,6 +2,7 @@
 pageheader: Software Code
 backlinktext: "< HOME"
 backlinkpath: "/"
+notoc: true
 ---
 
 Hier sind aufgelistet die Software-Code Repositories (Github) für das Projekt.
