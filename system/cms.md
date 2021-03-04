@@ -2,6 +2,7 @@
 pageheader: Backend Content-Management-System (CMS)
 backlinktext: "< HOME"
 backlinkpath: "/"
+notoc: true
 ---
 
 ***--- WICHTIG: nicht vollständig! ---***
