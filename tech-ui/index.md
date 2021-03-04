@@ -56,7 +56,7 @@ yarn build
 und die daduch entstandende Datei-Struktur in ``./build`` wird zum Wurzelverzeichnis 
 des Webservers hochgeladen bzw. übertragen. 
 
-## Schnittstellen
+## Externe Schnittstellen
 
 ### Google Analytics
 

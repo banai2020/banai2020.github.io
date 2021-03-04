@@ -19,6 +19,12 @@
 * [Hosting](./system/hosting)
 * Backend: [Content-Management-System (CMS)](./system/cms)
 * [User Interface (Frontend)](./tech-ui/)
+    * Architektur der App
+        * Software-Code
+        * Technologien und Frameworks
+        * Build & Deployment (Software-Erstellung- und Bereitstellungssprozess)
+    * Schnittstellen
+        * Google Analytics
 * Sicherheit
 * Statistik
   * [Google Analytics](/statistik/google-analytics)
