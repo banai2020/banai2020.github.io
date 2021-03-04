@@ -12,4 +12,5 @@ Hier wird aufgelistet wichtige Konfiguration-Einstellungen zu den verschiedenen 
 ## User Interface (Frontend)
 
 * [Google Analytics (GA) Tracking-ID Verknüpfung](/konfig/google-analytics)
+* [Google Directions Billing](/konfig/google-directions-api) ??? CHECK! ???
 

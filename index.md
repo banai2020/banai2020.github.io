@@ -21,7 +21,7 @@
 * [User Interface (Frontend)](./tech-ui/)
 * Sicherheit
 * Statistik
-  * Google Analytics
+  * [Google Analytics](/statistik/google-analytics)
 * Wartung & Sicherung
 
 ## Software Code

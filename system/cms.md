@@ -19,7 +19,7 @@ von Wordpress eingesetzt. Keine fremd Plugins, noch fremd Themes, werden verwend
 
 ``Apache`` dient als Webserver mit MySQL als Datenbank. 
 
-## Software
+## Software Auflistung
 
 FUNKTION    | SOFTWARE  | VERSION
 :--         | :--       |:--
