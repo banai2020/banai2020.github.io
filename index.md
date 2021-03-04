@@ -16,7 +16,7 @@
 
 * System Architektur
 * [Konfigurationen](./konfig/)
-* Hosting
+* [Hosting](./system/hosting)
 * Backend: [Content-Management-System (CMS)](./system/cms)
 * [User Interface (Frontend)](./tech-ui/)
 * Sicherheit

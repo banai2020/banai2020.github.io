@@ -2,6 +2,7 @@
 pageheader: Konfigurations-Einstellungen
 backlinktext: "< HOME"
 backlinkpath: "/"
+notoc: true
 ---
 
 ***--- WICHTIG: nicht vollständig! ---*** 

@@ -17,9 +17,15 @@ beschrieben.
 Um Sicherheit zu erhöhen und Wartung zu minimieren, wird nur die Kern-Funktionalität 
 von Wordpress eingesetzt. Keine fremd Plugins, noch fremd Themes, werden verwendet. 
 
-## Kern Software
+``Apache`` dient als Webserver mit MySQL als Datenbank. 
 
-[Wordpress](https://de.wikipedia.org/wiki/WordPress_Foundation){:target="_blank"} - Version 5.6.1 (28. Februar 2021)
+## Software
+
+FUNKTION    | SOFTWARE  | VERSION
+:--         | :--       |:--
+Content-Management | [Wordpress](https://de.wikipedia.org/wiki/WordPress_Foundation){:target="_blank"} | Version 5.6.1 (28. Februar 2021)
+Webserver   | Apache    | 2.4
+Datenbank   | MySQL     | 5.7.33 
 
 ## Funktionalitäten und Erweiterungen
 
@@ -29,3 +35,6 @@ von Wordpress eingesetzt. Keine fremd Plugins, noch fremd Themes, werden verwend
 
 ## Konfigurationen
 
+#### Wordpress
+
+#### Apache
