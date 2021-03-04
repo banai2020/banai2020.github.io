@@ -12,6 +12,11 @@ beschrieben.
 
 => ***Siehe auch [die Benutzer-Anleitungen zum Content-Management-System (CMS) Interface](/wp-admin).***
 
+## Überblick
+
+Um Sicherheit zu erhöhen und Wartung zu minimieren, wird nur die Kern-Funktionalität 
+von Wordpress eingesetzt. Keine fremd Plugins, noch fremd Themes, werden verwendet. 
+
 ## Kern Software
 
 [Wordpress](https://de.wikipedia.org/wiki/WordPress_Foundation){:target="_blank"} - Version 5.6.1 (28. Februar 2021)
