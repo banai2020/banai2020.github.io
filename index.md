@@ -19,11 +19,12 @@
 * [Hosting](./system/hosting)
 * Backend: [Content-Management-System (CMS)](./system/cms)
 * [User Interface (Frontend)](./tech-ui/)
-    * Architektur der App
-        * Software-Code
-        * Technologien und Frameworks
-        * Build & Deployment (Software-Erstellung- und Bereitstellungssprozess)
-    * Schnittstellen
+    * [Architektur der App](/tech-ui/#architektur-der-app)
+        * [Software-Code](/tech-ui/#software-code)
+        * [Technologien und Frameworks](/tech-ui/#technologien-und-frameworks)
+        * [Build & Deployment (Software-Erstellung- und Bereitstellungssprozess)](/tech-ui/#build--deployment-software-erstellung--und-bereitstellungssprozess)
+    * [Datenmodel](/tech-ui/data-model)
+    * [Externe Schnittstellen](/tech-ui/#externe-schnittstellen)
         * Google Analytics
 * Sicherheit
 * Statistik
