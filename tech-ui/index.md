@@ -56,6 +56,10 @@ yarn build
 und die daduch entstandende Datei-Struktur in ``./build`` wird zum Wurzelverzeichnis 
 des Webservers hochgeladen bzw. übertragen. 
 
+## Datenmodel
+
+[Beschreibung und Einzelheiten zur Datenstruktur und dem Datenmodell](./data-model)
+
 ## Externe Schnittstellen
 
 ### Google Analytics
