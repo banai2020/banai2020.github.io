@@ -1,4 +1,4 @@
-[&lt; Intro](./wp-admin)
+[&lt; Intro]()
 
 # Anleitung zur CMS - Videospacer ("Banai Videospacer")
 

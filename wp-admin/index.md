@@ -10,15 +10,15 @@ notoc: true
 Anleitung zur Content-Management-System (CMS) Interface
 
 * [Intro](#intro)
-* [Globale Einstellungen](./wp-admin-global)
-* [Übersetzungen](./wp-admin-translate)
-* [Splash Screen](./wp-admin-splash)
-* [Unternehmen-Slider](./wp-admin-unternehmen)
-* [Kompetenz-Leiste](./wp-admin-kompetenz)
-* [Leistungs-Carousel](./wp-admin-carousel)
-* [Video-Spacer](./wp-admin-video-spacer)
-* [Kontaktformular](./wp-admin-kontakt)
-* [Footer Bereich](./wp-admin-footer)
+* [Globale Einstellungen](./global)
+* [Übersetzungen](./translate)
+* [Splash Screen](./splash)
+* [Unternehmen-Slider](./unternehmen)
+* [Kompetenz-Leiste](./kompetenz)
+* [Leistungs-Carousel](./carousel)
+* [Video-Spacer](./video-spacer)
+* [Kontaktformular](./kontakt)
+* [Footer Bereich](./footer)
 
 
 ## Intro

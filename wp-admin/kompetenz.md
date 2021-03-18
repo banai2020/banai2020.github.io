@@ -1,4 +1,4 @@
-[&lt; Intro](./wp-admin)
+[&lt; Intro]()
 
 # Anleitung zur CMS - Kompetenz-Leiste ("Banai Kompetenz")
 
