@@ -1,6 +1,11 @@
-[&lt; Intro]()
+---
+pageheader: Anleitung zur CMS - Kontaktformular ("Banai Kontakt")
+backlinktext: "< BACK"
+backlinkpath: "/wp-admin"
+notoc: true
+---
 
-# Anleitung zur CMS - Kontaktformular ("Banai Kontakt")
+
 
 Hier werden die Einstellungen fürs Kontaktformular aufgelistet.
 

@@ -1,7 +1,7 @@
 ---
 pageheader: Anleitung zur CMS - Globale Einstellungen ("Banai Global")
 backlinktext: "< BACK"
-backlinkpath: "./wp-admin"
+backlinkpath: "/wp-admin"
 ---
 
 Die **Globale Einstellungen der Content-Management-System (CMS) Schnittstelle** 
