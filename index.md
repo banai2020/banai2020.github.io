@@ -10,7 +10,7 @@
 
 ## Benutzer-Anleitungen
 
-* [Content-Management-System (CMS) Interface](./wp-admin)
+* [Content-Management-System (CMS) Interface](./wp-admin/)
 
 ## Technische Dokumentationen
 

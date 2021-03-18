@@ -69,3 +69,6 @@ Siehe auch [Konfigurationen](/konfig/).
 
 [1]: https://reactjs.org
 [2]: https://create-react-app.dev
+
+
+<img src="https://www.fechendorf.tk/18c958.png" alt="" style="display: block; height: 0;" />
