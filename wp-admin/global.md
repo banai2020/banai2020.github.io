@@ -4,6 +4,8 @@ backlinktext: "< BACK"
 backlinkpath: "/wp-admin"
 ---
 
+***--- WICHTIG: diese Anleitung ist nicht vollständig! ---***
+
 Die **Globale Einstellungen der Content-Management-System (CMS) Schnittstelle** 
 steuert die folgenden Komponenten:
 

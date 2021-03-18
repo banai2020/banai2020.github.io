@@ -5,7 +5,7 @@ backlinkpath: "/"
 notoc: true
 ---
 
-***--- WICHTIG: diese Anleitung ist nicht vollständig! ---*** 
+***--- WICHTIG: diese Anleitung ist nicht vollständig! ---***
 
 Anleitung zur Content-Management-System (CMS) Interface
 

@@ -4,6 +4,8 @@ backlinktext: "< BACK"
 backlinkpath: "/wp-admin"
 ---
 
+***--- WICHTIG: diese Anleitung ist nicht vollständig! ---***
+
 Hier werden die Einstellungen zum ersten Teil der Seite, der 
 "Unternehmen Slider", angeboten.
 
