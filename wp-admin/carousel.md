@@ -6,7 +6,6 @@ notoc: true
 ---
 
 
-# Anleitung zur CMS - Leistungs-Carousel ("Banai Leistungen")
 
 Hier können die einzelnen Slides fürs Carousel verwaltet werden.
 
