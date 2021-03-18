@@ -5,7 +5,7 @@ backlinkpath: "/wp-admin"
 notoc: true
 ---
 
-
+***--- WICHTIG: diese Anleitung ist nicht vollständig! ---***
 
 Hier können die einzelnen Slides fürs Carousel verwaltet werden.
 
