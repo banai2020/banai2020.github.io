@@ -1,4 +1,10 @@
-[&lt; Intro]()
+---
+pageheader: Anleitung zur CMS - Leistungs-Carousel
+backlinktext: "< BACK"
+backlinkpath: "/wp-admin"
+notoc: true
+---
+
 
 # Anleitung zur CMS - Leistungs-Carousel ("Banai Leistungen")
 
